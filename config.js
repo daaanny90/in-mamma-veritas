@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'In Mamma Veritas',
   subtitle: 'Allattamento, come nessuno ve lo aveva mai raccontato.',
-  copyright: '© All rights reserved.',
+  copyright: '© tutti i diritti riservati.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
