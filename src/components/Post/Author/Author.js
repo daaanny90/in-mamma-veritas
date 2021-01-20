@@ -17,7 +17,8 @@ const Author = () => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          <strong>{author.name}</strong> on Twitter
+          {/*TODO: remove comments when a twitter account will be active*/}
+          {/*<strong>{author.name}</strong> on Twitter*/}
         </a>
       </p>
     </div>
