@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://in-mamma-veritas.netlify.com',
   pathPrefix: '/',
   title: 'In Mamma Veritas',
-  subtitle: 'Allattamento, come nessuno ve lo aveva mai raccontato.',
+  subtitle: 'Essere mamma, come nessuno ve lo aveva mai raccontato.',
   copyright: '© tutti i diritti riservati.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'In Mamma Veritas',
     photo: '/photo.png',
-    bio: 'Allattamento, come nessuno ve lo aveva mai raccontato.',
+    bio: 'Essere mamma, come nessuno ve lo aveva mai raccontato.',
     contacts: {
       email: '',
       facebook: '',
