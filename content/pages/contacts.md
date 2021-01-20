@@ -3,7 +3,7 @@ template: page
 title: Contattami
 slug: contattami
 socialImage: /media/contattami.jpg
-draft: true
+draft: false
 ---
 
 
