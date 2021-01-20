@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://inmammaveritas.netlify.com',
+  url: 'https://in-mamma-veritas.netlify.com',
   pathPrefix: '/',
   title: 'In Mamma Veritas',
   subtitle: 'Allattamento, come nessuno ve lo aveva mai raccontato.',
   copyright: '© tutti i diritti riservati.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -30,14 +30,14 @@ module.exports = {
     bio: 'Allattamento, come nessuno ve lo aveva mai raccontato.',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',

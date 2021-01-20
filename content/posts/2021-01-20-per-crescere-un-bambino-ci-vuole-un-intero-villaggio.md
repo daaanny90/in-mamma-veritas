@@ -33,6 +33,6 @@ Ecco, **la verità care mamme è che anche la vostra amica è uno zombi come voi
 \
 Questo blog vuole essere **un VERO sfogo di una mamma VERA.** Una mamma stanca, con le occhiaie. Una mamma che piange. Una mamma che ride. Una mamma come voi.
 
-![per crescere un bambino ci vuole un intero villaggio - in mamma veritas](/media/joshua-j-cotten-i8w4s4zdapk-unsplash.jpg "per crescere un bambino ci vuole un intero villaggio - in mamma veritas")
+![per crescere un bambino ci vuole un intero villaggio - in mamma veritas](/media/crescere-bambino-villaggio.jpg "per crescere un bambino ci vuole un intero villaggio - in mamma veritas")
 
 *<span>Photo by <a href="https://unsplash.com/@jcotten?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joshua J. Cotten</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*
