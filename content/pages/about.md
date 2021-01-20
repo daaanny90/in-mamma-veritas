@@ -5,9 +5,7 @@ slug: chi-sono
 socialImage: /media/chi-sono.jpg
 draft: false
 ---
-
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/chi-sono.jpg)
+![chi sono](/media/chi-sono.jpg "chi sono")
 
 Mi chiamo Erica.
 
