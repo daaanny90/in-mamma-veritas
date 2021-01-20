@@ -13,6 +13,10 @@ tags:
   - vitadamamma
   - apparenze
 ---
+
+
+![per crescere un bambino ci vuole un intero villaggio - in mamma veritas](/media/crescere-bambino-villaggio.jpg "per crescere un bambino ci vuole un intero villaggio - in mamma veritas")
+
 Quando ho deciso di iniziare il mio blog, intitolando il primo post con questa frase ho pensato: “non avrei potuto scegliere una frase più banale”. Probabilmente lo è. Usata, stra usata e abusata, ma non è mai stata più vera di adesso.
 
 No, non sto per farvi un pippone femminista sul problema che le donne vengano lasciate da sole dalla società nella crescita dei loro figli. Certo, sicuramente è un problema, **ma esiste un problema ancora più grande: le altre mamme.**
@@ -33,6 +37,8 @@ Ecco, **la verità care mamme è che anche la vostra amica è uno zombi come voi
 \
 Questo blog vuole essere **un VERO sfogo di una mamma VERA.** Una mamma stanca, con le occhiaie. Una mamma che piange. Una mamma che ride. Una mamma come voi.
 
-![per crescere un bambino ci vuole un intero villaggio - in mamma veritas](/media/crescere-bambino-villaggio.jpg "per crescere un bambino ci vuole un intero villaggio - in mamma veritas")
+
+
+
 
 *<span>Photo by <a href="https://unsplash.com/@jcotten?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joshua J. Cotten</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*
