@@ -3,7 +3,7 @@ template: page
 title: Chi sono
 slug: chi-sono
 socialImage: /media/chi-sono.jpg
-draft: true
+draft: false
 ---
 
 
