@@ -7,7 +7,7 @@ draft: false
 ---
 ![chi sono](/media/chi-sono.jpg "chi sono")
 
-Mi chiamo Erica.
+Mi chiamo Erica. 
 
 Il 24 agosto 2020 il mio mondo è cambiato. E non solo perché ho dato alla luce mia figlia. Da quel giorno ho avuto tanti momenti in cui sono arrivata al limite, in cui ho pensato che non ce l'avrei fatta.
 
