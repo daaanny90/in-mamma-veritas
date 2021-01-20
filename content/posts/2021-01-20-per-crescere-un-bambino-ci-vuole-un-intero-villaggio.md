@@ -3,7 +3,7 @@ template: post
 title: Per crescere un bambino ci vuole un intero villaggio
 slug: per-crescere-un-bambino-ci-vuole-un-intero-villaggio
 socialImage: /media/crescere-bambino-villaggio.jpg
-draft: true
+draft: false
 date: 2021-01-20T21:12:49.466Z
 description: "Il nemico numero 1: le altre mamme (e l'apparenza)."
 category: vita da mamma
