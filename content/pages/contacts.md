@@ -5,8 +5,6 @@ slug: contattami
 socialImage: /media/contattami.jpg
 draft: false
 ---
-
-
 ![contattami](/media/contattami.jpg "contattami")
 
 Ehilà, ciao! 🙂
